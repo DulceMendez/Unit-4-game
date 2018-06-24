@@ -1,0 +1,25 @@
+body {
+    background-image: url("../images/multicolor.png");
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    background-color: black;
+    width: 100%;
+    max-width: 1490 px;
+}
+
+section {
+    font-family:'Dosis', sans-serif;
+    color:rgba(0, 128, 0, 0.959);
+    font-style: bold;
+    text-align: left;
+    width: 60%;
+}
+#wrapper{
+    background-color:orange;
+    color:white;
+}
+#container{
+    background-color:rgba(255, 255, 0, 0.699)
+}
+
